@@ -1,1 +1,1 @@
-const availablePdf = [];
+const availablePdf = ["A. Leite et al. - 2020 - Hermes Guidance-enriched Visual Analytics for eco"];

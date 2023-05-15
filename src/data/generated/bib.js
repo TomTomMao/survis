@@ -103,7 +103,7 @@
         "author": "Ma\u00e7\u00e3s, Catarina and Polisciuc, Evgheni and Machado, Penousal",
         "doi": "10.1177/14738716221098074",
         "journal": "Information Visualization",
-        "keywords": "application domain:risk management, type: technique, Stacked Graph, Minimising Cumulative Variance, Stacking Order, Label Position, Optimising Colour Assembly",
+        "keywords": "application domain:risk management, type:technique, Stacked Graph, Minimising Cumulative Variance, Stacking Order, Label Position, Optimising Colour Assembly",
         "number": "4",
         "pages": "371-392",
         "publisher": "SAGE",
